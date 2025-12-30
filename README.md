@@ -8,7 +8,7 @@ Currently learning and improving my skills through hands-on projects.
 ## 🚀 About Me
 
 - 🎯 Frontend Developer (Junior)
-- 🧱 Strong foundation in **HTML5 & CSS3**
+- 🧱 Strong foundation in **HTML5 & CSS3 & BOOTSTRAP **
 - 📱 Focused on **Responsive Design**
 - 💻 Building real projects to improve my skills
 - 🌱 Currently learning **JavaScript**
