@@ -30,7 +30,7 @@ Currently learning and improving my skills through hands-on projects.
 ## 📂 Projects
 
 ### Daniel Website
-Responsive bakery website built using **HTML & CSS only**
+Responsive bakery website built using **HTML & CSS & BOOTSTRAP**
 
 - 🔗 Live Demo: (https://zyadezat.github.io/angora/)
 - 📁 Repository: (https://github.com/zyadezat/angora.git)
@@ -65,7 +65,7 @@ Personal portfolio website to showcase my projects and skills
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" target="_blank"/>
   </a>
 </p>
 
