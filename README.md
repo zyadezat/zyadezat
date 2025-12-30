@@ -32,8 +32,8 @@ Currently learning and improving my skills through hands-on projects.
 ### Daniel Website
 Responsive bakery website built using **HTML & CSS only**
 
-- 🔗 Live Demo: [https://your-live-link-here](https://zyadezat.github.io/angora/)
-- 📁 Repository: [[https://github.com/USERNAME/REPO_NAME](https://zyadezat.github.io/angora/)](https://github.com/zyadezat/angora.git)
+- 🔗 Live Demo: (https://zyadezat.github.io/angora/)
+- 📁 Repository: (https://github.com/zyadezat/angora.git)
 
 **Features:**
 - Clean UI
