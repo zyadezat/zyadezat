@@ -45,8 +45,8 @@ Responsive bakery website built using **HTML & CSS only**
 ### 🌐 Portfolio Website
 Personal portfolio website to showcase my projects and skills
 
-- 🔗 Live Demo: https://your-live-link-here
-- 📁 Repository: https://github.com/USERNAME/REPO_NAME
+- 🔗 Live Demo:  (https://zyadezat.github.io/Devfolio/)
+- 📁 Repository:  (https://github.com/zyadezat/Devfolio.git)
 
 ---
 
