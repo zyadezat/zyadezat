@@ -22,11 +22,13 @@
 
 <br>
 
-## 🚀 Featured Projects:
+### 🛠️ Featured Projects
 
-- 📋 **[To-Do List CLI Application](https://github.com/zyadezat/PROJECT_NAME)**: A modular command-line task manager featuring dynamic index management and robust input validation.
-- 🛒 **[Interactive Cashier System](https://github.com/zyadezat/PROJECT_NAME)**: A terminal-based cashier and invoice calculator with itemized breakdown and total calculation.
-- ⏳ **[Pomodoro Focus Timer](https://github.com/zyadezat/PROJECT_NAME)**: A real-time productivity countdown timer utilizing Python's `time` module and terminal formatting.
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **To-Do List App** | A clean, modular command-line task manager with dynamic options. | `Python` | [View Repository](https://github.com/zyadezat/todo-list-cli) |
+| **Cashier System** | An interactive terminal-based cashier and invoice calculator. | `Python` | [View Repository](https://github.com/zyadezat/cashier-system) |
+| **Pomodoro Timer** | A lightweight CLI focus timer with customizable work/break intervals. | `Python` | [View Repository](https://github.com/zyadezat/pomodoro-timer) |
 
 <br>
 
