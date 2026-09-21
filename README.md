@@ -45,10 +45,7 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=zyadezat&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyadezat&layout=compact&theme=radical&hide_border=false">
-
+  
 <br><br>
 
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=zyadezat&theme=radical">
